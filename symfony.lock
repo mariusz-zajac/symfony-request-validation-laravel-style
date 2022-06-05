@@ -249,14 +249,14 @@
     "symfony/runtime": {
         "version": "v6.1.0"
     },
+    "symfony/serializer": {
+        "version": "v6.1.0"
+    },
     "symfony/service-contracts": {
         "version": "v3.1.0"
     },
     "symfony/string": {
         "version": "v6.1.0"
-    },
-    "symfony/test-pack": {
-        "version": "1.0.10"
     },
     "symfony/translation-contracts": {
         "version": "v3.1.0"

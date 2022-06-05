@@ -12,6 +12,7 @@
         "symfony/flex": "^2",
         "symfony/framework-bundle": "*",
         "symfony/runtime": "*",
+        "symfony/serializer": "6.1.*",
         "symfony/validator": "6.1.*",
         "symfony/yaml": "*"
     },
